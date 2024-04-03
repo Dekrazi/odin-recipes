@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(227, 199, 199);
+}
+
+.h1tag,
+.h3tag {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.recipelist {
+    text-align: center;
+    color: blueviolet;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
